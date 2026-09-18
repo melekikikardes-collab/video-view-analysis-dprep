@@ -1,21 +1,7 @@
 # Project title
+Javi was here
 
-## Goal
-Short project objective.
 
-## Data
-- Main file: video_view.csv
+Making some changes for class!
 
-## Requirements
-- R
-- Packages: tidyverse
-- Quarto installed
-
-## Run steps
-1. `Rscript src/analysis.R`
-2. `quarto render src/report.qmd`
-
-## Expected output
-- report.html
-
-- Doing some testing here! 
+Another change by Melek.
